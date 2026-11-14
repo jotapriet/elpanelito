@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.DS_Store
+.vercel/
+.cache/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.netrc
+.git-credentials
+.codex/
+.agents/
+.env*
+!.env.example
